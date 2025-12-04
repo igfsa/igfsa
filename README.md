@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ## Meus contatos ##
 
-* [LinkedIn](https://www.linkedin.com/in/icaro-sanches/) Add commentMore actions
+* [LinkedIn](https://www.linkedin.com/in/icaro-sanches/)
 * [GitHub](https://github.com/igfsa) 
 * [Gmail](mailto:igfsaicaro@gmail.com) 
 * [Telegram](http://t.me/IcaroSanches) 
