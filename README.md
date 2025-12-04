@@ -35,16 +35,16 @@ Here are some ideas to get you started:
 
 ### 📊 Estatísticas no GitHub
 
-![Icaro's GitHub stats](https://github-readme-stats.vercel.app/api?username=igfsa&show_icons=true&theme=codeSTACKr&rank_icon=github)
+![Icaro's GitHub stats](https://github-readme-stats-igfsa.vercel.app/api?username=igfsa&show_icons=true&theme=codeSTACKr&rank_icon=github)
 
 ### 📌 Projetos em Destaque
 
-[![Speech2Learning](https://github-readme-stats.vercel.app/api/pin/?username=igfsa&repo=portfolio&theme=codeSTACKr)](https://github.com/igfsa/portfolio)
+[![Speech2Learning](https://github-readme-stats-igfsa.vercel.app/api/pin/?username=igfsa&repo=portfolio&theme=codeSTACKr)](https://github.com/igfsa/portfolio)
 
-[![Speech2Learning](https://github-readme-stats.vercel.app/api/pin/?username=igfsa&repo=dotnet&theme=codeSTACKr )](https://github.com/igfsa/dotnet)
+[![Speech2Learning](https://github-readme-stats-igfsa.vercel.app/api/pin/?username=igfsa&repo=dotnet&theme=codeSTACKr )](https://github.com/igfsa/dotnet)
 
-[![Speech2Learning](https://github-readme-stats.vercel.app/api/pin/?username=igfsa&repo=git_github&theme=codeSTACKr)](https://github.com/igfsa/git_github)
+[![Speech2Learning](https://github-readme-stats-igfsa.vercel.app/api/pin/?username=igfsa&repo=git_github&theme=codeSTACKr)](https://github.com/igfsa/git_github)
 
 ### 🚀 Linguagens Mais Usadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igfsa&layout=donut&theme=codeSTACKr)
+![Top Langs](https://github-readme-stats-igfsa.vercel.app/api/top-langs/?username=igfsa&layout=donut&theme=codeSTACKr)
