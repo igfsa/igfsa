@@ -17,7 +17,7 @@
   <a href="mailto:igfsaicaro@gmail.com">
    <img align="center" src="https://img.shields.io/badge/_igfsaicaro@gmail.com-peachpuff?logo=gmail&logoColor=FFFFFF&labelColor=orange"></a>
   
-  <a href="https://github.com/igfsa">
+  <a href="https://t.me/IcaroSanches">
    <img align="center" src="https://img.shields.io/badge/_@igfsa-peachpuff?logo=Telegram&logoColor=FFFFFF&labelColor=orange"></a>
 
   <br>
