@@ -34,7 +34,7 @@
   **📌 Projetos em Destaque**
   
   [![Speech2Learning](https://github-readme-stats-igfsa.vercel.app/api/pin/?username=igfsa&repo=portfolio&theme=codeSTACKr)](https://github.com/igfsa/portfolio)
-  [![Speech2Learning](https://github-readme-stats-igfsa.vercel.app/api/pin/?username=igfsa&repo=dotnet&theme=codeSTACKr )](https://github.com/igfsa/dotnet)
+  [![Speech2Learning](https://github-readme-stats-igfsa.vercel.app/api/pin/?username=igfsa&repo=av360_webapp&theme=codeSTACKr)](https://github.com/igfsa/av360_webapp)
   [![Speech2Learning](https://github-readme-stats-igfsa.vercel.app/api/pin/?username=igfsa&repo=git_github&theme=codeSTACKr)](https://github.com/igfsa/git_github)
 
 </div>
