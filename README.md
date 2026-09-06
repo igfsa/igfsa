@@ -3,7 +3,7 @@
   # **Olá, eu sou Ícaro Sanches (igfsa) 👋** #
   <br>
   
-  :octocat: Desenvolvedor C# e Angular | :scroll: Pós Graduando em Especialização em Desenvolvimento de Sistemas com C#
+  :octocat: Desenvolvedor C# e Angular | :scroll: Pós Graduado em Especialização em Desenvolvimento de Sistemas com C# | :mortar_board: Tecnólogo em Análise e Desenvolvimento de Sistemas
   
   <a href="https://riss.com.br">
    <img align="center" src="https://img.shields.io/badge/Me_conheça_+-peachpuff?logo=html5&logoColor=FFFFFF&labelColor=orange"></a>
